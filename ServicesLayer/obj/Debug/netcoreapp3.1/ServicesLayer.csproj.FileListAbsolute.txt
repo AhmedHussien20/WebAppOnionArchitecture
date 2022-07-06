@@ -1,0 +1,10 @@
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.deps.json
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.dll
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\ServicesLayer\bin\Debug\netcoreapp3.1\ServicesLayer.pdb
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.csproj.AssemblyReference.cache
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.AssemblyInfoInputs.cache
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.AssemblyInfo.cs
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.dll
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\ServicesLayer\obj\Debug\netcoreapp3.1\ServicesLayer.pdb

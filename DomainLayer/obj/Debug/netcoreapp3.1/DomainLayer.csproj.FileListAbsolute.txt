@@ -1,0 +1,10 @@
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.deps.json
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfo.cs
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.pdb

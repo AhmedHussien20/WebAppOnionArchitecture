@@ -1,0 +1,16 @@
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\bin\Debug\netcoreapp3.1\InfrastructureLayer.deps.json
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\bin\Debug\netcoreapp3.1\InfrastructureLayer.runtimeconfig.json
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\bin\Debug\netcoreapp3.1\InfrastructureLayer.runtimeconfig.dev.json
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\bin\Debug\netcoreapp3.1\InfrastructureLayer.dll
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\bin\Debug\netcoreapp3.1\InfrastructureLayer.pdb
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\obj\Debug\netcoreapp3.1\InfrastructureLayer.csproj.AssemblyReference.cache
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\obj\Debug\netcoreapp3.1\InfrastructureLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\obj\Debug\netcoreapp3.1\InfrastructureLayer.AssemblyInfoInputs.cache
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\obj\Debug\netcoreapp3.1\InfrastructureLayer.AssemblyInfo.cs
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\obj\Debug\netcoreapp3.1\InfrastructureLayer.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\obj\Debug\netcoreapp3.1\InfrastructureLayer.csproj.CopyComplete
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\obj\Debug\netcoreapp3.1\InfrastructureLayer.dll
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\obj\Debug\netcoreapp3.1\InfrastructureLayer.pdb
+C:\Users\ahmed.hussien\Desktop\WebApp\WebAppOnionArchitecture\RepositoryLayer\obj\Debug\netcoreapp3.1\InfrastructureLayer.genruntimeconfig.cache
